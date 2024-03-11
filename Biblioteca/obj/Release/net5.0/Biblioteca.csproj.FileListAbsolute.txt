@@ -1,0 +1,13 @@
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\bin\Release\net5.0\Biblioteca.deps.json
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\bin\Release\net5.0\Biblioteca.dll
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\bin\Release\net5.0\Biblioteca.pdb
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\Biblioteca.dll
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\ref\Biblioteca.dll
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\Biblioteca.pdb
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\refint\Biblioteca.dll
+C:\Users\Rene\source\repos\Benchmark-CSharp\Biblioteca\obj\Release\net5.0\Biblioteca.sourcelink.json
